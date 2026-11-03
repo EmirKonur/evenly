@@ -1,0 +1,19 @@
+name: Feature request
+description: A way Evenly could handle a real situation better.
+labels: [enhancement]
+body:
+  - type: textarea
+    id: situation
+    attributes:
+      label: The situation
+      description: Describe the trip, flat, or dinner where Evenly fell short.
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would help
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: What you do today instead

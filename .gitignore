@@ -1,0 +1,45 @@
+# dependencies
+node_modules/
+
+# Expo and builds
+.expo/
+dist/
+web-build/
+expo-env.d.ts
+coverage/
+
+# generated native projects (created by `expo prebuild` / `expo run:*`)
+/ios
+/android
+.kotlin/
+*.orig.*
+
+# signing material
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.pem
+
+# Metro
+.metro-health-check*
+
+# logs
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+pnpm-debug.log*
+*.log
+
+# env files
+.env
+.env*.local
+
+# OS and editor junk
+.DS_Store
+Thumbs.db
+*.swp
+
+# typescript
+*.tsbuildinfo

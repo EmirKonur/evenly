@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <title>Evenly</title>
+  <rect width="512" height="512" rx="116" fill="#FF6A3D"/>
+  <g transform="rotate(-6 256 256)">
+    <path d="M152 92 H360 V404 L334 382 L308 404 L282 382 L256 404 L230 382 L204 404 L178 382 L152 404 Z" fill="#FFF4E6" stroke="#2D1537" stroke-width="20" stroke-linejoin="round"/>
+    <path d="M204 214 H308 M204 284 H308" stroke="#2D1537" stroke-width="36" stroke-linecap="round"/>
+  </g>
+  <circle cx="398" cy="118" r="26" fill="#3DD6A3" stroke="#2D1537" stroke-width="12"/>
+</svg>

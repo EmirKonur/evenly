@@ -1,0 +1,8 @@
+NOODLE BAR 88
+10/22/2026
+Dan Dan Noodles          14.00
+Wonton Soup              11.50
+Mapo Tofu                15.00
+Subtotal                 52.50
+Tax                       4.86
+Total                    57.36

@@ -1,0 +1,9 @@
+dist
+coverage
+.expo
+ios
+android
+drizzle/meta
+drizzle/migrations.js
+pnpm-lock.yaml
+src/receipt/__fixtures__

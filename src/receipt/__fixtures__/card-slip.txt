@@ -1,0 +1,11 @@
+OSTERIA LUCE
+Merchant ID: 4410028811
+Check #2281  Table 9
+10/23/2026 21:47
+Subtotal                 $86.00
+Tax                       $7.63
+Amount                   $93.63
+Tip                      $18.00
+Total                   $111.63
+X______________________
+I agree to pay above total amount

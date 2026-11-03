@@ -1,0 +1,37 @@
+name: Bug report
+description: Something adds up wrong, crashes, or looks broken.
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      description: What you did, what you expected, and what you saw instead.
+    validations:
+      required: true
+  - type: textarea
+    id: amounts
+    attributes:
+      label: Amounts involved
+      description: For split or balance bugs, the expense amounts, split mode, and the numbers you expected. Leave out real names if you like.
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Where
+      options:
+        - iOS (development or store build)
+        - Android (development or store build)
+        - Expo Go
+        - Web
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: App version or commit
+  - type: textarea
+    id: receipt
+    attributes:
+      label: Receipt text (for scanning bugs)
+      description: Paste the OCR text or the receipt lines. Blur personal details.
+      render: text
