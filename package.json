@@ -7,7 +7,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/emirk35/evenly.git"
+    "url": "https://github.com/EmirKonur/evenly.git"
   },
   "main": "expo-router/entry",
   "packageManager": "pnpm@9.15.0",

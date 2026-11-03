@@ -5,7 +5,7 @@
 
 Evenly splits shared costs with friends down to the cent: photograph a receipt, tap who had what, and tax and tip follow each person's share, all on the phone and all offline.
 
-[![CI](https://github.com/emirk35/evenly/actions/workflows/ci.yml/badge.svg)](https://github.com/emirk35/evenly/actions/workflows/ci.yml)
+[![CI](https://github.com/EmirKonur/evenly/actions/workflows/ci.yml/badge.svg)](https://github.com/EmirKonur/evenly/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-2D1537)](LICENSE)
 [![Expo SDK 58](https://img.shields.io/badge/Expo_SDK-58-FF6A3D)](https://docs.expo.dev/)
 [![TypeScript strict](https://img.shields.io/badge/TypeScript-strict-3DD6A3)](tsconfig.json)
